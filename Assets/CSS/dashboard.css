@@ -1,0 +1,49 @@
+.custom-container{
+    max-width: 85%;
+    margin: 0 auto;
+}
+
+.headerB0x{
+    box-shadow: 0px 3px 6px #31313129;
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background: transparent;
+}
+
+.Subscripty {
+    border: 5px solid #543FED;
+    
+}
+.Subscripty a{
+    text-decoration: none;
+    font: normal normal bold 30px/35px Raleway;
+    color: #543FED;
+}
+
+.links a{
+    text-decoration: none;
+    font: bold 20px/24px Raleway;
+}
+
+.dropdown{
+    border: 2px solid #35217E;
+    border-radius: 35px;
+}
+.dropdown-text{
+    margin-right: 4rem;
+}
+.dropdown .fa-user{
+    /* border: 1px solid black; */
+    color: #35217E;
+}
+.dropdown .fa-bell{
+    color: #543FEE;
+}
+.john-text{
+    margin-bottom: 0px !important;
+    font: normal normal bold 20px/24px Raleway;
+    color: #35217E;
+}
